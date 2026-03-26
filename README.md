@@ -36,7 +36,7 @@
 Java, Python, JavaScript, SQL  
 
 **Frameworks & Tools:**  
-React.js, Node.js, Express.js, Flask, Tailwind CSS  
+React.js, Node.js, Express.js, Flask, FastAPI, Tailwind CSS  
 
 **AI / ML:**  
 Scikit-learn, Pandas, NumPy, RAG, LLMs, Embeddings  
